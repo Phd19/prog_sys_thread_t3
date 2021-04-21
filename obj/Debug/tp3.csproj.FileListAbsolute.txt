@@ -1,0 +1,7 @@
+C:\Users\stark\source\repos\tp3\bin\Debug\tp3.exe.config
+C:\Users\stark\source\repos\tp3\bin\Debug\tp3.exe
+C:\Users\stark\source\repos\tp3\bin\Debug\tp3.pdb
+C:\Users\stark\source\repos\tp3\obj\Debug\tp3.csprojAssemblyReference.cache
+C:\Users\stark\source\repos\tp3\obj\Debug\tp3.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\tp3\obj\Debug\tp3.exe
+C:\Users\stark\source\repos\tp3\obj\Debug\tp3.pdb
